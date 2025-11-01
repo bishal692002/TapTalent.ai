@@ -4,3 +4,9 @@ node_modules/
 .DS_Store
 data/*.db
 data/*.db-journal
+DEPLOYMENT.md
+QUICKSTART.md
+CHECKLIST.md
+PROJECT_SUMMARY.md
+setup-git.sh
+test-api.sh
